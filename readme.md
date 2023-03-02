@@ -1,3 +1,3 @@
 JavaScript counter project!
 
-Deployed here:
+[Deployed here](https://neon-basbousa-1e6903.netlify.app/)
