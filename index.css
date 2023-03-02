@@ -1,0 +1,52 @@
+body {
+    background-image: url("concert.jpg");
+    background-size: cover;
+    font-family: 'Gajraj One', cursive;
+    text-align: center;
+}
+
+h1 {
+    color: cyan;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    color: chartreuse;
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: red;
+    border: 3px solid azure;
+}
+
+#save-btn {
+    background: yellowgreen;
+    border: 3px solid azure;
+}
+
+p{
+    color: white;
+    font-weight: bold;
+}
+
+#mainContent{
+    background-color: black;
+    max-width: 20%;
+    border: 3px dashed azure;
+    margin: auto;
+}
